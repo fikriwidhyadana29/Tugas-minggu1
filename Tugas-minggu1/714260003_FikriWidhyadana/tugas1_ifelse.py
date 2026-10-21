@@ -39,5 +39,5 @@ else:
     print(f"Status : {status}")
     print("-"*45)
 
-print("Terima kasih telah menggunakan program ini.")
-print("="*45) 
+print("Terima kasih telah menggunakan program ini.") 
+print("="*45)
